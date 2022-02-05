@@ -1,1 +1,1 @@
-web: gunicorn pockets-full-and-posing
+web: gunicorn pfp_backend.wsgi
